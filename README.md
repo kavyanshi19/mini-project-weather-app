@@ -34,7 +34,7 @@ Installation & Setup
 
 1. Clone the repository:
 
-git@github.com:kavyanshi19/mini-project-weather-app.git
+https://github.com/kavyanshi19/mini-project-weather-app.git
 
 2. Install dependencies:
 
